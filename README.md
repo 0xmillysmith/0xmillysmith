@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Millysmith-drDev 
 
-## Learning Smart contract Developer 
+## Smart contract Developer in training 💹
 
 Dm on X: twitter.com/0xmillysmith
 
