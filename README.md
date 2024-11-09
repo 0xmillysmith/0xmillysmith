@@ -6,6 +6,8 @@ Dm on X: twitter.com/0xmillysmith
 
 My README.md not yet Complete...
 
+Learning, Learning Learning 
+
 <!--
 **Millysmith/Millysmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
